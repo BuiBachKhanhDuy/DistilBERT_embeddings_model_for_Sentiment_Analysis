@@ -55,10 +55,9 @@ Each row has:
 - You can replace this dataset with your own by keeping the same column format.
 
 ## Model Evaluation
-![Accuract over epochs](<img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/6fd238f6-4f0b-4453-99c4-ea66f201cc01" />)
 
+![Accuracy over epochs](https://github.com/user-attachments/assets/6fd238f6-4f0b-4453-99c4-ea66f201cc01)
 
-![Loss over epochs](<img width="1200" height="500" alt="Figure_2" src="https://github.com/user-attachments/assets/950c9836-ddb4-41e4-bc92-50e326a61a7b" />)
+![Loss over epochs](https://github.com/user-attachments/assets/950c9836-ddb4-41e4-bc92-50e326a61a7b)
 
-
-![Model Comparision](<img width="800" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/ff0426e0-decf-4977-bf4e-9d95156d15e6" />)
+![Model Comparison](https://github.com/user-attachments/assets/ff0426e0-decf-4977-bf4e-9d95156d15e6)
