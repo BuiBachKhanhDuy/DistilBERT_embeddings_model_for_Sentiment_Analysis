@@ -11,12 +11,13 @@ The model can be trained in different configurations:
 
 
 ## 📂 Project Structure
+```plaintext
 ├── data.py # Data loading, cleaning, tokenization
 ├── model.py # Model architectures (DistilBERT + Transformer Encoder)
 ├── train_eval.py # Training, evaluation, visualization, and prediction loop
 ├── requirements.txt # Dependencies
 ├── sentiment_data.csv (not included, provide your own dataset)
-
+```
 ## ⚙️ Installation
 
 ### 1. Clone the repository
