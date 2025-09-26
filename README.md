@@ -24,16 +24,16 @@ The model can be trained in different configurations:
 git clone https://github.com/yourusername/sentiment-analysis-model.git
 cd sentiment-analysis-model
 
-###2. Create a virtual environment (Python 3.8–3.11 recommended)
+### 2. Create a virtual environment (Python 3.8–3.11 recommended)
 python -m venv env
 env\Scripts\activate   # On Windows
 source env/bin/activate  # On Linux/Mac
 
-###3. Install dependencies
+### 3. Install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
 
-###4. 🛠️ Requirements
+### 4. 🛠️ Requirements
 
 Main libraries:
 - TensorFlow 2.12
